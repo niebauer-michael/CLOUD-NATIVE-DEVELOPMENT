@@ -1,0 +1,1 @@
+Cloud Native Development. Project 1 of the semester. A simple web application for to store images persistently in Google Cloud Storage. The web application is written in Python using the flask module. HTML is used to present the user interface and images to the user.
